@@ -1,0 +1,10 @@
+### venv
+# Virtualenv
+venv/
+
+### PyCharm
+.idea/
+
+
+### Python
+__pycache__/
